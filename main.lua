@@ -2,7 +2,7 @@
 require ( "vservAds" )
 
 local options = { }
-options.zoneID =  --Enter your ZoneID here, Note it's a string value
+options.zoneID = Your_ZoneID --Enter your ZoneID here, Note it's a string value
 options.showAt =    "both"--OR "end" OR "start" --both
 options.viewMandatory = "false" -- Check for Connection activity
 
